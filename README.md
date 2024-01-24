@@ -3,7 +3,9 @@
 This project is created for a specific need and will be deleted after its intended use. It is not meant for long-term or general-purpose usage.
 
 # Chatbot Project with Helpshift Integration
-
+![Screenshot](./Capture%20d'écran%202024-01-24%20194638.png)
+![Screenshot](./Capture%20d'écran%202024-01-24%20194718.png)
+![Screenshot](./Capture%20d'écran%202024-01-24%20203646.png)
 ## Overview
 
 This project implements a chatbot using Helpshift API's and platform services for efficient customer support and interaction.
@@ -20,4 +22,4 @@ This project implements a chatbot using Helpshift API's and platform services fo
 
 Images For Results
 
-Helpshift Domain : <a href="https://frocode.helpshift.com/hc/en/3-my-app/faq/14-texts-not-correct/?p=web"> Click Here </a>
+My Personal Helpshift Domain : <a href="https://frocode.helpshift.com/"> Click Here </a>
