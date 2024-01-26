@@ -31,7 +31,7 @@ This project implements a chatbot using Helpshift API's and platform services fo
 - Integrate our chatbot with Discord to provide support and interact with users directly through Discord channels.
 - **Facebook Integration:**
 Facebook Messenger Support: Expand our chatbot's reach by integrating with Facebook Messenger, allowing users to interact with our bot directly from Facebook.
-**SMS Service via Helpshift:**
+- **SMS Service via Helpshift:**
   -Resolve customer issues submitted through SMS from your Helpshift inbox.
 
 Images For Results
