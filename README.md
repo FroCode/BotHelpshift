@@ -28,6 +28,6 @@ This project implements a chatbot using Helpshift API's and platform services fo
 
 
 Images For Results
-# Please Check My Persenal Portfolio click on chat icon and use the Bot ✅
+### Please Check My Persenal Portfolio click on chat icon and use the Bot ✅
 My Personal Helpshift Domain : <a href="https://frocode.helpshift.com/"> Click Here </a>
 My Personal Portfolio : <a href="https://frocode.github.io/Portfolio2/"> Click Here </a>
