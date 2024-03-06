@@ -1,4 +1,4 @@
-## Note
+## Not
 
 This project is created for a specific need and will be deleted after its intended use. It is not meant for long-term or general-purpose usage.
 
